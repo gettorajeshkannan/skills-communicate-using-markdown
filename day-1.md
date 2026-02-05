@@ -1,27 +1,20 @@
-# ***Daily*** **Learning**gLearning
-## Morning Planning
-
-## Review
-
-
-### Morning Planning
-
-#### Review
-##### Morning Planning
-###### Review
-###### **Review**
+```bash
+git clone https://github.com/skills/communicate-using-markdown
+```
 
 
-- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
-- [X] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
-- [ ] Convert my first blog post into an actual webpage.
+git clone https://github.com/skills/communicate-using-markdown
 
-- Item 1
-   - itemx
-- Item 2
-- Item 3____
 
-1. Step 1
-2. inside
-     . Step 2
-10. Step 3
+```js
+var myVar = "Hello, world!";
+
+```js
+var myVar = "Hello, world!";
+
+
+Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
+
+```bash
+ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
+```
